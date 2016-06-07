@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Reborn
+Comment=Reborn
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Reborn
+MetacityTheme=Reborn
+IconTheme=Moka-Minimal
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize:

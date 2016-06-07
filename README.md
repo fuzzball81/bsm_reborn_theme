@@ -8,6 +8,8 @@ To install, clone or download this repository, and place the theme in your ~/.th
 
 Help is needed! This theme is not complete. Although it is quite a bit along, there are still some elements that need tweaking. This is my first GTK theme ever, so all help is appreciated.
 
+Note: This theme looks really good when used with the Moka Minimal icon theme!
+
 ---
 History
 06-06-16 - v0.0.1 (Initial beta release)

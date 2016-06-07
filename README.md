@@ -7,3 +7,7 @@ This theme combines elements of BSM Simple, its Metacity theme, but built on top
 To install, clone or download this repository, and place the theme in your ~/.themes directory. If your ~/.themes directory doesn't exist, create it.
 
 Help is needed! This theme is not complete. Although it is quite a bit along, there are still some elements that need tweaking. This is my first GTK theme ever, so all help is appreciated.
+
+---
+History
+06-06-16 - v0.0.1 (Initial beta release)

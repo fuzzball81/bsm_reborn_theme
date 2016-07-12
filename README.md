@@ -11,6 +11,6 @@ Help is needed! This theme is not complete. Although it is quite a bit along, th
 Note: This theme looks really good when used with the Moka Minimal icon theme!
 
 ---
-History
-06-06-16 - v0.0.1: Initial beta release
-07-11-16 - v1.0: First public release, known to be free of bugs as far as I can tell.
+History:
+* 06-06-16 - v0.0.1: Initial beta release
+* 07-11-16 - v1.0: First public release, known to be free of bugs as far as I can tell.
